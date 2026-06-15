@@ -1,0 +1,2 @@
+Hi, this is text file.
+data is to be read in python.
